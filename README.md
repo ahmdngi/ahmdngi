@@ -28,9 +28,9 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 - 🖥️ [hpc-commands](https://github.com/ahmdngi/hpc-commands) - a command reference collection for HPC and infrastructure work
 - 💾 [proxmox-backup-client](https://github.com/ahmdngi/proxmox-backup-client) - adaptation work around Proxmox Backup Client usability across more environments
 - 🛰️ [VSAT Honeypot](https://github.com/ahmdngi/vsat-honeypot) - maritime VSAT honeypot designed to emulate the Cobham SAILOR 900 VSAT
-- 🌐 [haris.ahmdngi.io](https://github.com/ahmdngi/haris.ahmdngi.io) - project website and public landing page for the Haris ecosystem
-- 🌊 [marine_haris](https://github.com/ahmdngi/marine_haris) - marine-focused platform and field deployment work
-- 🛡️ [watchtower](https://github.com/ahmdngi/watchtower) - Ansible automation and operations tooling for Haris infrastructure
+- 🌐 [haris.ahmdngi.io](https://github.com/project-haris/haris.ahmdngi.io) - project website and public landing page for the Haris ecosystem
+- 🌊 [marine_haris](https://github.com/project-haris/marine_haris) - marine-focused platform and field deployment work
+- 🛡️ [watchtower](https://github.com/project-haris/watchtower) - Ansible automation and operations tooling for Haris infrastructure
 - 🕸️ [tailscale-topography](https://github.com/ahmdngi/tailscale-topography) - local web topology viewer for Tailscale-connected nodes
 - 🧪 [microslop-com](https://github.com/microslop-com) - satirical website project critiquing Microsoft-style AI slop and low-effort generated web experiences
 
