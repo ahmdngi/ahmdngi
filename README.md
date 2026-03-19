@@ -27,6 +27,7 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 - [Ahmed's Notebook](https://notes.ahmdngi.io/) - my technical notebook for storage, sysadmin, and cybersecurity work
 - [hpc-commands](https://github.com/ahmdngi/hpc-commands) - a command reference collection for HPC and infrastructure work
 - [proxmox-backup-client](https://github.com/ahmdngi/proxmox-backup-client) - adaptation work around Proxmox Backup Client usability across more environments
+- [VSAT Honeypot](https://github.com/ahmdngi/vsat-honeypot) - maritime VSAT honeypot designed to emulate the Cobham SAILOR 900 VSAT
 - [marineharis](https://github.com/marineharis) - marine-focused projects and experiments
 - [microslop-com](https://github.com/microslop-com) - additional builds, tests, and side projects
 
