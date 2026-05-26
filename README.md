@@ -25,6 +25,7 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 ## Selected Projects
 
 - 📓 [Ahmed's Notebook](https://notes.ahmdngi.io/) - my technical notebook for storage, sysadmin, and cybersecurity work
+- 🔄 [llm-api-translator](https://github.com/ahmdngi/llm-api-translator) - multi-format LLM API proxy that translates Anthropic ⇄ OpenAI formats to any backend
 - 🖥️ [hpc-commands](https://github.com/ahmdngi/hpc-commands) - a command reference collection for HPC and infrastructure work
 - 💾 [proxmox-backup-client](https://github.com/ahmdngi/proxmox-backup-client) - adaptation work around Proxmox Backup Client usability across more environments
 - 🛰️ [VSAT Honeypot](https://github.com/project-haris/vsat-honeypot) - maritime VSAT honeypot designed to emulate the Cobham SAILOR 900 VSAT
@@ -38,6 +39,9 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
