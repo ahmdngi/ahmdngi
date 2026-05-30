@@ -26,6 +26,7 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 
 - 📓 [Ahmed's Notebook](https://notes.ahmdngi.io/) - my technical notebook for storage, sysadmin, and cybersecurity work
 - 🔄 [llm-api-translator](https://github.com/ahmdngi/llm-api-translator) - multi-format LLM API proxy that translates Anthropic ⇄ OpenAI formats to any backend
+- 🖥️ [hpc-commands](https://github.com/ahmdngi/hpc-commands) - a command reference collection for HPC and infrastructure work
 - 💾 [proxmox-backup-client](https://github.com/ahmdngi/proxmox-backup-client) - adaptation work around Proxmox Backup Client usability across more environments
 - 🛰️ [VSAT Honeypot](https://github.com/project-haris/vsat-honeypot) - maritime VSAT honeypot designed to emulate the Cobham SAILOR 900 VSAT
 - 🌐 [haris.ahmdngi.io](https://haris.ahmdngi.io/) - public documentation site for the Haris ecosystem ([source](https://github.com/project-haris/haris.ahmdngi.io))
