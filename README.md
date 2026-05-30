@@ -6,7 +6,7 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 
 
 
-[Notebook](https://notes.ahmdngi.io/) · [LinkedIn](https://linkedin.com/in/ahmdngi) · [Email](mailto:ahmed@ahmdngi.io)
+[Notebook](https://notes.ahmdngi.io/) · [Haris Docs](https://haris.ahmdngi.io/) · [LinkedIn](https://linkedin.com/in/ahmdngi) · [Email](mailto:ahmed@ahmdngi.io)
 
 ## Current Focus
 
@@ -26,10 +26,9 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 
 - 📓 [Ahmed's Notebook](https://notes.ahmdngi.io/) - my technical notebook for storage, sysadmin, and cybersecurity work
 - 🔄 [llm-api-translator](https://github.com/ahmdngi/llm-api-translator) - multi-format LLM API proxy that translates Anthropic ⇄ OpenAI formats to any backend
-- 🖥️ [hpc-commands](https://github.com/ahmdngi/hpc-commands) - a command reference collection for HPC and infrastructure work
 - 💾 [proxmox-backup-client](https://github.com/ahmdngi/proxmox-backup-client) - adaptation work around Proxmox Backup Client usability across more environments
 - 🛰️ [VSAT Honeypot](https://github.com/project-haris/vsat-honeypot) - maritime VSAT honeypot designed to emulate the Cobham SAILOR 900 VSAT
-- 🌐 [haris.ahmdngi.io](https://github.com/project-haris/haris.ahmdngi.io) - project website and public landing page for the Haris ecosystem
+- 🌐 [haris.ahmdngi.io](https://haris.ahmdngi.io/) - public documentation site for the Haris ecosystem ([source](https://github.com/project-haris/haris.ahmdngi.io))
 - 🌊 [marine_haris](https://github.com/project-haris/marine_haris) - marine-focused platform and field deployment work
 - 🛡️ [watchtower](https://github.com/project-haris/watchtower) - Ansible automation and operations tooling for Haris infrastructure
 - 🕸️ [tailscale-topography](https://github.com/project-haris/tailscale-topography) - local web topology viewer for Tailscale-connected nodes
