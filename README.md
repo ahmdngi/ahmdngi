@@ -6,7 +6,7 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 
 
 
-[Notebook](https://notes.ahmdngi.io/) · [Haris Docs](https://haris.oversight.ee/) · [LinkedIn](https://linkedin.com/in/ahmdngi) · [Email](mailto:ahmed@ahmdngi.io)
+[Notebook](https://notes.oversight.ee/) · [Haris Docs](https://haris.oversight.ee/) · [LinkedIn](https://linkedin.com/in/ahmdngi) · [Email](mailto:ahmed@ahmdngi.io)
 
 ## Current Focus
 
@@ -24,7 +24,7 @@ Cybersecurity Researcher and System Administrator focused on HPC platforms, Linu
 
 ## Selected Projects
 
-- 📓 [Ahmed's Notebook](https://notes.ahmdngi.io/) - my technical notebook for storage, sysadmin, and cybersecurity work
+- 📓 [Ahmed's Notebook](https://notes.oversight.ee/) - my technical notebook for storage, sysadmin, and cybersecurity work
 - 🔄 [llm-api-translator](https://github.com/ahmdngi/llm-api-translator) - multi-format LLM API proxy that translates Anthropic ⇄ OpenAI formats to any backend
 - 🖥️ [hpc-commands](https://github.com/ahmdngi/hpc-commands) - a command reference collection for HPC and infrastructure work
 - 💾 [proxmox-backup-client](https://github.com/ahmdngi/proxmox-backup-client) - adaptation work around Proxmox Backup Client usability across more environments
