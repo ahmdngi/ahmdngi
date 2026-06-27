@@ -1,0 +1,23 @@
+# Ahmed Nagi Nasr (Marcus Vellar)
+
+Cybersecurity researcher and system administrator. TalTech PhD candidate.
+
+## Focus
+
+- Maritime cybersecurity and vessel OSINT
+- HPC systems and Linux infrastructure
+- Enterprise storage (GPFS, BeeGFS)
+- Operational technology security
+
+## Projects
+
+- Shipcrawler — vessel OSINT investigation platform
+- Oversight — maritime & OT cybersecurity consultancy
+- Notes — technical knowledge base at notes.oversight.ee
+
+## Links
+
+- https://cyber.oversight.ee
+- https://notes.oversight.ee
+- https://haris.oversight.ee
+- https://linkedin.com/in/ahmdngi
