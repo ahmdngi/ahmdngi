@@ -39,6 +39,7 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - 🎤 **[Black Hat Europe 2026 Arsenal](https://europe-arsenal-cfp.blackhat.com/)** — ShipCrawler demo. London, Dec 2026
 - 🎤 **[Black Hat Middle East 2026 Arsenal](https://europe-arsenal-cfp.blackhat.com/)** — ShipCrawler demo. Riyadh, Dec 2026
 - 🎤 **[DEF CON 34](https://defcon.org/)** — Maritime security talk. Las Vegas, Aug 2026
+- 🎤 **[KOMAREC 2025 / Kotka Maritime Conference](https://www.linkedin.com/posts/ahmdngi_komarec2025-komarec2025-kotkamaritimeconference-activity-7391157225748156417-AUEC)** — Maritime research presentation. Kotka, 2025
 - 🎤 **[NordPIANC Meeting](https://www.pianc.org/nordpianc-meetings/)** — ShipCrawler presentation. Tallinn, Sep 2026
 - 🎤 **[Citadel Summer School 2026](https://www.citadel.edu/summer-school/)** — Maritime cybersecurity training. Athens, 2026
 - 🎤 **[ISC High Performance 2026](https://isc-hpc.com/)** — HPC cybersecurity. Hamburg, Jun 2026
