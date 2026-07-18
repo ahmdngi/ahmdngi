@@ -41,7 +41,7 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - 🎤 **[KOMAREC 2025 / Kotka Maritime Conference](https://www.linkedin.com/posts/ahmdngi_komarec2025-komarec2025-kotkamaritimeconference-activity-7391157225748156417-AUEC)** — Maritime research presentation. Kotka, Oct 2025
 - 🎤 **[The Citadel Summer School 2025](https://www.linkedin.com/posts/ahmdngi_maritimesecurity-osint-msoc-activity-7354161755008155650-3vpc)** — M-SOC research presentation. Tallinn, Jul 2025
 - 🎤 **[ISC High Performance 2026](https://isc-hpc.com/)** — HPC cybersecurity. Hamburg, Jun 2026
-- 🎤 **[The Citadel Summer School 2026](https://www.citadel.edu/summer-school/)** — Presentation on maritime cybersecurity. Tallinn, Jul 2026
+- 🎤 **[Citadel Summer School 2026](https://www.citadel.edu/summer-school/)** — Presentation on maritime cybersecurity. Tallinn, Jul 2026
 - 🎤 **[DEF CON 34](https://defcon.org/)** — Maritime security talk. Las Vegas, Aug 2026
 - 🎤 **[NordPIANC Meeting](https://www.pianc.org/nordpianc-meetings/)** — ShipCrawler presentation. Tallinn, Sep 2026
 - 🎤 **[Black Hat Europe 2026 Arsenal](https://europe-arsenal-cfp.blackhat.com/)** — ShipCrawler demo. London, Dec 2026
