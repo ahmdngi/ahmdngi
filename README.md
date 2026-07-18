@@ -36,16 +36,16 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - 🧪 **[microslop-com](https://github.com/microslop-com)** — satirical critique of AI-generated web slop.
 
 ## Conferences & Speaking
+- 🎤 **[CyberHOT Summer School 2024](https://sites.google.com/cyberhot.eu/cyberhot2024/programme)** — Co-trainer: "Weaponization of OSINT" for OT. Athens, Sep 2024
+- 🎤 **[CYBERUS Winter School 2025](https://master-cyberus.eu/programme/overview#:~:text=WINTER%20SCHOOL%20AT%20TALTECH%20(ESTONIA))** — Winter school at TalTech. Tallinn, Jan 2025
+- 🎤 **[KOMAREC 2025 / Kotka Maritime Conference](https://www.linkedin.com/posts/ahmdngi_komarec2025-komarec2025-kotkamaritimeconference-activity-7391157225748156417-AUEC)** — Maritime research presentation. Kotka, Oct 2025
+- 🎤 **[M-SOC Research Presentation](https://www.linkedin.com/posts/ahmdngi_maritimesecurity-osint-msoc-activity-7354161755008155650-3vpc)** — Maritime OSINT & Security Operations Center research. 2025
+- 🎤 **[ISC High Performance 2026](https://isc-hpc.com/)** — HPC cybersecurity. Hamburg, Jun 2026
+- 🎤 **[Citadel Summer School 2026](https://www.citadel.edu/summer-school/)** — Presentation on maritime cybersecurity. Tallinn, Jul 2026
+- 🎤 **[DEF CON 34](https://defcon.org/)** — Maritime security talk. Las Vegas, Aug 2026
+- 🎤 **[NordPIANC Meeting](https://www.pianc.org/nordpianc-meetings/)** — ShipCrawler presentation. Tallinn, Sep 2026
 - 🎤 **[Black Hat Europe 2026 Arsenal](https://europe-arsenal-cfp.blackhat.com/)** — ShipCrawler demo. London, Dec 2026
 - 🎤 **[Black Hat Middle East 2026 Arsenal](https://europe-arsenal-cfp.blackhat.com/)** — ShipCrawler demo. Riyadh, Dec 2026
-- 🎤 **[DEF CON 34](https://defcon.org/)** — Maritime security talk. Las Vegas, Aug 2026
-- 🎤 **[KOMAREC 2025 / Kotka Maritime Conference](https://www.linkedin.com/posts/ahmdngi_komarec2025-komarec2025-kotkamaritimeconference-activity-7391157225748156417-AUEC)** — Maritime research presentation. Kotka, 2025
-- 🎤 **[CYBERUS Winter School 2025](https://master-cyberus.eu/programme/overview#:~:text=WINTER%20SCHOOL%20AT%20TALTECH%20(ESTONIA))** — Winter school at TalTech. Tallinn, Jan 2025
-- 🎤 **[M-SOC Research Presentation](https://www.linkedin.com/posts/ahmdngi_maritimesecurity-osint-msoc-activity-7354161755008155650-3vpc)** — Maritime OSINT & Security Operations Center research. 2025
-- 🎤 **[NordPIANC Meeting](https://www.pianc.org/nordpianc-meetings/)** — ShipCrawler presentation. Tallinn, Sep 2026
-- 🎤 **[Citadel Summer School 2026](https://www.citadel.edu/summer-school/)** — Presentation on maritime cybersecurity. Tallinn, Jul 2026
-- 🎤 **[ISC High Performance 2026](https://isc-hpc.com/)** — HPC cybersecurity. Hamburg, Jun 2026
-- 🎤 **[CyberHOT Summer School 2024](https://sites.google.com/cyberhot.eu/cyberhot2024/programme)** — Co-trainer: "Weaponization of OSINT" for OT. Athens, Sep 2024
 
 ## Publications
 - 📄 **A Proactive Defense: An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity** — *IEEE Access*, Vol. 14, 2026 (sole first author)
