@@ -18,7 +18,7 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - Linux systems administration, automation, and platform reliability
 
 ## Selected Projects
-- 🌊 **[ShipCrawler](https://github.com/ahmdngi/shipcrawler)** — AI-powered OSINT framework for maritime cybersecurity. IEEE Access sole author (2026). Black Hat EU & MEA Arsenal 2026.
+- 🌊 **[ShipCrawler](https://github.com/ahmdngi/shipcrawler)** — AI-powered OSINT framework for maritime cybersecurity. IEEE Access (2026). Black Hat EU & MEA Arsenal 2026.
 - 🐝 **[Sirb](https://github.com/ahmdngi/sirb)** — multi-agent task swarm framework with TrendTracker, SSE dashboard, and checkpoint/resume.
 - 🔄 **[llm-api-translator](https://github.com/ahmdngi/llm-api-translator)** — multi-format LLM API proxy translating Anthropic ↔ OpenAI formats to any backend.
 - 🛰️ **[VSAT Honeypot](https://github.com/project-haris/vsat-honeypot)** — maritime VSAT honeypot emulating Cobham SAILOR 900.
