@@ -48,7 +48,7 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - 🎤 **[Black Hat Middle East 2026 Arsenal](https://bhmea2026.awardsplatform.com/)** — ShipCrawler demo. Riyadh, Dec 2026
 
 ## Publications
-- 📄 **A Proactive Defense: An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity** — *IEEE Access*, Vol. 14, 2026 (sole first author)
+- 📄 **A Proactive Defense: An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity** — *IEEE Access*, Vol. 14, 2026 (first author)
 - 📄 **Maritime Security Operations Center (M-SOC): Systematic Literature Review, Research Gaps and Future Areas to Investigate** — *TransNav*, 2025
 - 📄 **Exploring Historical Maritime Cyber-Attacks and Introducing Maritime Security Operations Center as a Solution** — *Theory and Practice of Shipbuilding* (IOS Press), 2024 (book chapter)
 - 📄 **Hybrid Physics–AI Digital Twin Framework for Shared Mooring Systems in Deepwater Floating Offshore Wind Farms** — *J. Marine Science and Application*, 2026 (co-author)
