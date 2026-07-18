@@ -45,7 +45,7 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - 🎤 **[DEF CON 34](https://defcon.org/)** — Maritime security talk. Las Vegas, Aug 2026
 - 🎤 **[NordPIANC Meeting](https://www.pianc.org/nordpianc-meetings/)** — ShipCrawler presentation. Tallinn, Sep 2026
 - 🎤 **[Black Hat Europe 2026 Arsenal](https://europe-arsenal-cfp.blackhat.com/)** — ShipCrawler demo. London, Dec 2026
-- 🎤 **[Black Hat Middle East 2026 Arsenal](https://europe-arsenal-cfp.blackhat.com/)** — ShipCrawler demo. Riyadh, Dec 2026
+- 🎤 **[Black Hat Middle East 2026 Arsenal](https://bhmea2026.awardsplatform.com/)** — ShipCrawler demo. Riyadh, Dec 2026
 
 ## Publications
 - 📄 **A Proactive Defense: An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity** — *IEEE Access*, Vol. 14, 2026 (sole first author)
