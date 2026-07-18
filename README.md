@@ -42,7 +42,7 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - 🎤 **[NordPIANC Meeting](https://www.pianc.org/nordpianc-meetings/)** — ShipCrawler presentation. Tallinn, Sep 2026
 - 🎤 **[Citadel Summer School 2026](https://www.citadel.edu/summer-school/)** — Maritime cybersecurity training. Athens, 2026
 - 🎤 **[ISC High Performance 2026](https://isc-hpc.com/)** — HPC cybersecurity. Hamburg, Jun 2026
-- 🎤 **[CyberHOT Summer School 2024](https://cyberhot.eu/)** — Co-trainer: "Weaponization of OSINT" for OT. Athens, Sep 2024
+- 🎤 **[CyberHOT Summer School 2024](https://sites.google.com/cyberhot.eu/cyberhot2024/programme)** — Co-trainer: "Weaponization of OSINT" for OT. Athens, Sep 2024
 
 ## Publications
 - 📄 **A Proactive Defense: An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity** — *IEEE Access*, Vol. 14, 2026 (sole first author)
