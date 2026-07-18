@@ -30,7 +30,7 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - 💾 **[remembrance](https://github.com/ahmdngi/remembrance)** — two-tier Hermes backup system: daily git-vault sync + full state snapshots.
 - 🧩 **[consensus-mcp-hermes](https://github.com/ahmdngi/consensus-mcp-hermes)** — connect Consensus (200M+ research papers) to Hermes via MCP.
 - 📓 **[Ahmed's Notebook](https://notes.oversight.ee/)** — technical notebook for storage, sysadmin, and cybersecurity.
-- 📑 **[DAR](https://ahmdngi.github.io/dar-site/)** — Arabic Research Archive: translate OA papers via DeepSeek to GitHub Pages.
+- 📑 **[DAR](https://dar.oversight.ee/)** — Arabic Research Archive: translate OA papers via DeepSeek to GitHub Pages.
 - 🖥️ **[hpc-commands](https://github.com/ahmdngi/hpc-commands)** — HPC command reference collection.
 - 💾 **[proxmox-backup-client](https://github.com/ahmdngi/proxmox-backup-client)** — Proxmox Backup Client 3.3.3 for RHEL 8/9.
 - 🧪 **[microslop-com](https://github.com/microslop-com)** — satirical critique of AI-generated web slop.
