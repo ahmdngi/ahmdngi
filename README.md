@@ -18,8 +18,8 @@ Cybersecurity Researcher and System Administrator — HPC, Linux infrastructure,
 - Linux systems administration, automation, and platform reliability
 
 ## Selected Projects
-- <img src="https://raw.githubusercontent.com/ahmdngi/shipcrawler/main/assets/logo.svg" width="20" height="20" style="vertical-align:middle"> **[ShipCrawler](https://github.com/ahmdngi/shipcrawler)** — AI-powered OSINT framework for maritime cybersecurity. IEEE Access sole author (2026). Black Hat EU & MEA Arsenal 2026.
-- <img src="https://raw.githubusercontent.com/ahmdngi/sirb/main/assets/logo.svg" width="20" height="20" style="vertical-align:middle"> **[Sirb](https://github.com/ahmdngi/sirb)** — multi-agent task swarm framework with TrendTracker, SSE dashboard, and checkpoint/resume.
+- 🌊 **[ShipCrawler](https://github.com/ahmdngi/shipcrawler)** — AI-powered OSINT framework for maritime cybersecurity. IEEE Access sole author (2026). Black Hat EU & MEA Arsenal 2026.
+- 🐝 **[Sirb](https://github.com/ahmdngi/sirb)** — multi-agent task swarm framework with TrendTracker, SSE dashboard, and checkpoint/resume.
 - 🔄 **[llm-api-translator](https://github.com/ahmdngi/llm-api-translator)** — multi-format LLM API proxy translating Anthropic ↔ OpenAI formats to any backend.
 - 🛰️ **[VSAT Honeypot](https://github.com/project-haris/vsat-honeypot)** — maritime VSAT honeypot emulating Cobham SAILOR 900.
 - 🌐 **[Haris Docs](https://haris.oversight.ee/)** ([source](https://github.com/project-haris/haris.ahmdngi.io)) — public documentation for the Haris maritime edge ecosystem.
